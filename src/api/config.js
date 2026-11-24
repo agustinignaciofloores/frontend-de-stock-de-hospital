@@ -1,1 +1,1 @@
-window.BACKEND_ORIGIN = 'https://proyecto-de-stock-del-hospital-backend.onrender.com';
+window.BACKEND_ORIGIN = 'https://backend-de-stock-de-hospital.onrender.com';
